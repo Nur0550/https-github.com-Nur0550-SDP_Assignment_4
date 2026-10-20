@@ -8,6 +8,8 @@ This project implements an enterprise **Car Rental Management System** built aro
 
 State is durably persisted to disk files (`reservations.json`, `deposits.json`, `dispatches.json`, `rental_chains.json`), surviving unexpected process restarts and power failures. The system implements a transactional saga with two distinct compensation rollback depths.
 
+- **GitHub Repository:** [https://github.com/Nur0550/https-github.com-Nur0550-SDP_Assignment_4](https://github.com/Nur0550/https-github.com-Nur0550-SDP_Assignment_4)
+
 ---
 
 ## 1. Subsystem Architecture & Autonomy
